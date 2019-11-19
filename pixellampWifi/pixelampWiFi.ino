@@ -15,8 +15,8 @@
 #include <ArduinoOTA.h>
 //
 // A remplacer par vos données
-const char* ssid = "Livebox-073A"; // le SSID de votre WiFi
-const char* password = "F6E916256D2D272DCA3FC99C41"; // le mdp
+const char* ssid = "Blablabla"; // le SSID de votre WiFi
+const char* password = "Blablabla"; // le mdp
 //Led ESP
 const int ESP_BUILTIN_LED = 2;
 
